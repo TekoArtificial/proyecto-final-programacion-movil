@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371793955807",
+    "firebase_url": "https://flowers-db-default-rtdb.firebaseio.com",
+    "project_id": "flowers-db",
+    "storage_bucket": "flowers-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371793955807:android:de61cbaf6666490afb926a",
+        "android_client_info": {
+          "package_name": "com.example.flowersmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371793955807-90p0711lheu73jgn4g0oktm5925t53qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowersmarket",
+            "certificate_hash": "3d5caddd27a9fc631950daa6f340a56caff248dd"
+          }
+        },
+        {
+          "client_id": "371793955807-dtgqq27ln4ospkc7vgg151r6opjgf2dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjhtLyI4BjD_sFJIC7mqIRPpserdICp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371793955807-dtgqq27ln4ospkc7vgg151r6opjgf2dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
